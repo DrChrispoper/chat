@@ -1,4 +1,4 @@
-# Date Picker
+# Chat app
 
 ## Main technologies used
 
